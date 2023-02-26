@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.11.9",
+    "uuidv4": "^6.2.13"
+  }
+}
